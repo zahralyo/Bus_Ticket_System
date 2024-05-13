@@ -1,0 +1,5 @@
+LarkinSentral 08:00AM 50.0 20
+KLIASentral 10:30AM 15.0 10
+KLIA2Sentral 10:30AM 12.0 10
+TaipingSentral 01:00PM 48.0 20
+KajangMRT 04:00PM 10.0 15
